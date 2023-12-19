@@ -1,16 +1,16 @@
 ## Neovim Windows
 
-Toda la explicación se encuentra en mi canal de youtube. [Joaquin Varela ](https://www.youtube.com/channel/UCw1Ipy5_P1OL0zUJMfYC7-A)
-
-Tengo varios videos con explicaciones de instalacion y configuracion.
+metodo para instalar neovim en windows sin morir en el intento 
 
 Requisitos para instalar esto
 
 1 Vim-Plug
-
+https://github.com/junegunn/vim-plug
 2 Git
 
 3 RipGrep
+choco install ripgrep
 
+4. no es un requisito pero facilita demasiado el uso de la consola 
 4 nvim :)
 
